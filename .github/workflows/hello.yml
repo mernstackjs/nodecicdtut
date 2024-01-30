@@ -14,4 +14,4 @@ jobs:
 
     steps:
       - name: Hello step
-        run: echo "helo wordl"
+        run: echo "hello world"
