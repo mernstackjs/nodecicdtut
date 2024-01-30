@@ -14,4 +14,4 @@ jobs:
 
     steps:
       - name: Hello step
-        run: exho "helo wordl"
+        run: echo "helo wordl"
